@@ -1,0 +1,18 @@
+Source / Accession,HGVS (NM_198253.3),Legacy Name,GRCh38 (Fwd),Clinical Classification,AG1 RNA (Rank),AG2 Follicular scRNA (Rank),AG1 CAGE,AVI Phred,MPRA GBM
+VCV002443072,c.-146C>T,C250T,"chr5:1,295,135 G>A",Pathogenic / Oncogenic (Tier I),+0.699 (1),+0.675 (1),1.774,22.69,2.47
+VCV001299388,c.-124C>T,C228T,"chr5:1,295,113 G>A",Oncogenic / Tier I (Conflicting germline),+0.394 (2),+0.400 (2),0.798,21.21,2.9
+VCV004530241,c.-124C>A,-,"chr5:1,295,113 G>T",Tier I - Strong,+0.118 (12),+0.144 (4),0.232,15.88,1.75
+VCV003256426,c.-86C>T,-,"chr5:1,295,075 G>A",Uncertain significance,+0.012 (115),+0.032 (35),0.022,8.46,-0.22
+VCV004539437,c.-142G>A,-,"chr5:1,295,131 C>T",Uncertain significance,+0.037 (68),+0.031 (40),0.068,7.69,0.11
+VCV004539436,c.-125C>A,-,"chr5:1,295,114 G>T",Uncertain significance,+0.051 (52),+0.023 (59),0.091,0.33,0.08
+VCV001336724,c.-139C>T,-,"chr5:1,295,128 G>A",Uncertain significance,+0.084 (29),+0.013 (91),0.159,12.37,0.19
+VCV001337935,c.-192T>C,-,"chr5:1,295,181 A>G",Uncertain significance,+0.008 (125),+0.013 (93),0.004,4.2,0.1
+VCV001336680,c.-193T>C,-,"chr5:1,295,182 A>G",Uncertain significance,-0.007 (163),+0.011 (98),0.003,5.16,0.15
+VCV002692088,c.-147T>C,-,"chr5:1,295,136 A>G",Uncertain significance,+0.010 (121),-0.004 (154),0.003,9.48,0.12
+VCV003765385,c.-89C>T,-,"chr5:1,295,078 G>A",Uncertain significance,-0.017 (196),-0.011 (177),-0.01,2.76,0.3
+Literature PTC [7],c.-112C>T,C216T,"chr5:1,295,101 G>A",Uncertain significance (PTC),-0.028 (233),-0.011 (180),-0.027,4.86,0.23
+VCV002575426,c.-174G>C,-,"chr5:1,295,163 C>G",Likely benign,-0.007 (162),-0.012 (185),-0.032,7.94,0.07
+VCV001337274,c.-173C>T,-,"chr5:1,295,162 G>A",Uncertain significance,-0.021 (212),-0.020 (218),-0.037,4.23,-0.23
+VCV004539438,c.-147T>A,-,"chr5:1,295,136 A>T",Uncertain significance,-0.036 (248),-0.044 (280),-0.096,8.3,-0.02
+VCV003765386,c.-165C>G,-,"chr5:1,295,154 G>C",Likely benign,-0.019 (206),-0.050 (288),-0.064,12.31,-0.35
+VCV001336460,c.-123T>A,-,"chr5:1,295,112 A>T",Uncertain significance,-0.049 (272),-0.052 (296),-0.102,1.37,-0.09

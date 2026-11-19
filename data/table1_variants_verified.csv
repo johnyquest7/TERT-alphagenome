@@ -1,0 +1,6 @@
+Variant,GRCh38 Coordinate,Forward Allele,HGVS (NM_198253.3),Position Relative to ATG,AVI Phred (Top %),Functional and Clinical Context
+C216T,"chr5:1,295,101",G>A,c.-112C>T,-112 bp,4.86 (32.68%),Rare variant in PTC; uncertain functional effect [7]
+C228T,"chr5:1,295,113",G>A,c.-124C>T,-124 bp,21.21 (0.76%),"Canonical activating hotspot; creates de novo ETS motif [1,2]"
+CC242-243TT,"chr5:1,295,127-1,295,128",GG>AA,c.-139_-138delinsTT,-139 to -138 bp,N/A (dinucleotide),Activating tandem variant; creates de novo ETS motif [8]
+C250T,"chr5:1,295,135",G>A,c.-146C>T,-146 bp,22.69 (0.54%),"Canonical activating hotspot; creates de novo ETS motif [1,2]"
+-57A>C,"chr5:1,295,046",T>G,c.-57A>C,-57 bp,22.82 (0.52%),"Activating hereditary/somatic promoter mutation [2,9]"
